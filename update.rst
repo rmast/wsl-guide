@@ -8,6 +8,7 @@ Because WSL uses a standard Ubuntu installation, upgrading your packages should 
 
     $ sudo apt-get update
     $ sudo apt-get upgrade
+    $ sudo apt-get dist-upgrade
 
 Updating the Ubuntu OS
 ----------------------
